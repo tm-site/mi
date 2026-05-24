@@ -1,0 +1,6 @@
+{
+  "name": "GameGate - بوابة الألعاب الموثوقة",
+  "description": "منصة متطورة لتحميل ورفع الألعاب الإلكترونية لجميع المنصات، تتميز بفحص تلقائي للملفات، تحقق ذكي من هوية الناشرين، موافقة الإدارة، وتقنيات تحميل متقدمة مثل التورنت وADM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
